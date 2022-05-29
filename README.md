@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @canguress
 - 👀 I’m interested in Unreal Engine 4 & 5 Development
-- 🌱  I am a Flutter & Android Developer but I’m currently learning Unreal Engine 5
+- 🌱  I am a Flutter & Android Developer but I’m currently developing Unreal Engine 5
 -
 - 📫 How to reach me -> cangures1912@gmail.com
 
