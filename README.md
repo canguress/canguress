@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @canguress
-- 🌱  Unreal Engine Gameplay Programmer 
+- 🌱  Unreal Engine Game Developer
 -
 - 📫 Knock Knock? -> cangures1912@gmail.com
 
