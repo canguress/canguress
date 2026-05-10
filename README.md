@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @canguress
-- 🌱  Unreal Engine Game Developer
+- 🌱  Full Stack Unity Game Developer
 -
 - 📫 Knock Knock? -> cangures1912@gmail.com
 
